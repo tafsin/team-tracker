@@ -1,0 +1,21 @@
+.banner-1{
+    background-image: url('../../images/banner-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height:400px;
+    width: 100%;
+    color: white;
+    text-align: center;
+    
+    
+}
+#bannerHead{
+    padding-top: 150px;
+}
+.teamOverView{
+    background-color: rgb(5, 5, 43);
+  
+    
+    
+}

@@ -1,0 +1,27 @@
+.banner-2{
+    background-image: url('../../images/banner-2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height:400px;
+    width: 100%;
+    color: white;
+    text-align: center;
+
+    
+    
+}
+.teamDetailSummary{
+    background-color: rgb(228, 135, 151);
+    margin: 100px 400px;
+    border-radius:10px;
+    
+}
+.teamDetailsIntro{
+   margin-left: 20px;
+   align-items: center;
+   color: white;
+}
+.detailBack{
+    background-color:rgb(5, 5, 43);
+}
